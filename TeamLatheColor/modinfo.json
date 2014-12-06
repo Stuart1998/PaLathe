@@ -1,0 +1,20 @@
+{
+    "context": "client",
+    "identifier": "com.uberent.pa.mods.client.teamlathecolor",
+    "display_name": "TeamLatheColor",
+    "description": "Changes the Lathe Spray to your Team Color instead of green",
+    "author": "TrophySystem",
+    "version": "1.0.0",
+    "build": "67099",
+    "date": "2014/06/07",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/rel-modified-fab-shader.47691/",
+    "category": [
+        "in-game"
+    ],
+    "id": "TeamLatheColor",
+    "priority": 100,
+    "enabled": true,
+    "content_id": "com.uberent.pa.mods.client.teamlathecolor",
+    "store_id": "com.pahub.content.plugin.store.mod.client"
+}
