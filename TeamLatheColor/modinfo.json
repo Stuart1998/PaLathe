@@ -2,11 +2,11 @@
     "context": "client",
     "identifier": "com.uberent.pa.mods.client.teamlathecolor",
     "display_name": "TeamLatheColor",
-    "description": "Changes the Lathe Spray to your Team Color instead of green",
+    "description": "Changes the fabrication nanolathe color to a mixed primary/secondary team color.",
     "author": "TrophySystem",
     "version": "1.0.0",
     "build": "67099",
-    "date": "2014/06/07",
+    "date": "2016/04/12",
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/threads/rel-modified-fab-shader.47691/",
     "category": [
